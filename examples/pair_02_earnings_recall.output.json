@@ -1,0 +1,15 @@
+{
+  "action": "regenerate",
+  "est_sec": 25.7,
+  "regenerate_reasons": [
+    {
+      "layer": "rule",
+      "code": "LENGTH_UNDER",
+      "message": "예상 25.7초로 30초에 못 미친다 (약 30자 부족)"
+    }
+  ],
+  "review_reasons": [],
+  "warnings": [],
+  "llm_called": false,
+  "llm_answer": null
+}

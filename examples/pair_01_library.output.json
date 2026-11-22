@@ -1,0 +1,68 @@
+{
+  "action": "regenerate",
+  "est_sec": 32.4,
+  "regenerate_reasons": [
+    {
+      "layer": "llm",
+      "code": "MEANING_CHANGED",
+      "section": 0,
+      "message": "원문은 폐관 시간을 늦췄다고 했는데 '문을 늦게 열었더니'로 바뀌었고, 3% 감소를 '한산해졌다'로 과장했다.",
+      "source_quote": "반면 어린이 자료실 이용은 같은 기간 3% 줄었다"
+    }
+  ],
+  "review_reasons": [],
+  "warnings": [
+    {
+      "code": "ROLE_MISMATCH",
+      "section": 4,
+      "message": "섹션 5의 역할과 내용이 맞지 않는다"
+    }
+  ],
+  "llm_called": true,
+  "llm_answer": {
+    "sections": [
+      {
+        "idx": 0,
+        "facts_in_source": true,
+        "same_meaning": false,
+        "source_quote": "반면 어린이 자료실 이용은 같은 기간 3% 줄었다",
+        "issue": "원문은 폐관 시간을 늦췄다고 했는데 '문을 늦게 열었더니'로 바뀌었고, 3% 감소를 '한산해졌다'로 과장했다."
+      },
+      {
+        "idx": 1,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "평일 폐관 시간을 오후 6시에서 밤 10시로 4시간 늦춘 것이 핵심이다",
+        "issue": ""
+      },
+      {
+        "idx": 2,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "월평균 이용자가 1만 2,400명에서 1만 7,500명으로 41% 늘었다고 14일 밝혔다",
+        "issue": ""
+      },
+      {
+        "idx": 3,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "같은 기간 인근 대학의 도서관 공사가 겹친 점도 함께 봐야 한다",
+        "issue": ""
+      },
+      {
+        "idx": 4,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "내년 1월 시의회 심의를 거쳐 정식 도입 여부를 결정할 계획이다",
+        "issue": ""
+      }
+    ],
+    "omission_misleads": false,
+    "omission_note": "",
+    "ends_complete": true,
+    "role_mismatch": [
+      4
+    ],
+    "injection_suspected": false
+  }
+}

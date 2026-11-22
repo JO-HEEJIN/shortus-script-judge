@@ -1,0 +1,59 @@
+{
+  "action": "render",
+  "est_sec": 40.3,
+  "regenerate_reasons": [],
+  "review_reasons": [],
+  "warnings": [],
+  "llm_called": true,
+  "llm_answer": {
+    "sections": [
+      {
+        "idx": 0,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "전작인 Air 2보다 무게는 0.8g 가벼워졌고",
+        "issue": ""
+      },
+      {
+        "idx": 1,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "이어폰 한 쪽의 무게는 4.6g이다.",
+        "issue": ""
+      },
+      {
+        "idx": 2,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "블루투스 5.4를 지원하며 기기 두 대에 동시에 연결할 수 있다.",
+        "issue": ""
+      },
+      {
+        "idx": 3,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "충전 케이스를 함께 쓰면 최대 32시간까지 쓸 수 있다",
+        "issue": ""
+      },
+      {
+        "idx": 4,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "노이즈 캔슬링은 최대 38dB까지 주변 소음을 줄인다.",
+        "issue": ""
+      },
+      {
+        "idx": 5,
+        "facts_in_source": true,
+        "same_meaning": true,
+        "source_quote": "12월 3일 출시한다. 가격은 129,000원이다.",
+        "issue": ""
+      }
+    ],
+    "omission_misleads": false,
+    "omission_note": "",
+    "ends_complete": true,
+    "role_mismatch": [],
+    "injection_suspected": false
+  }
+}
