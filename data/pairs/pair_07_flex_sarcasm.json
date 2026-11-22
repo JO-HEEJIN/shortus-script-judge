@@ -1,0 +1,52 @@
+{
+  "id": "pair_07_flex_sarcasm",
+  "split": "dev",
+  "type": "커뮤니티",
+  "hard_feature": "비꼬는 말투",
+  "collected_at": "2026-11-15T16:39+09:00",
+  "source_id": "src_07_flex_sarcasm",
+  "source_chars": 262,
+  "shortus": {
+    "job_id": "f2dad60b-35bd-4bd2-afab-c3e7099e193e",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 26.1,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 5,
+      "text": "자율 출퇴근제인 회사의 팀장이 자율적으로 9시 모임을 정했대요."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 5.4,
+      "text": "올해부터 8시에서 10시 사이에 자유롭게 출근하는 제도가 생겼습니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 5.1,
+      "text": "하지만 글쓴이의 팀장은 팀원들과 상의 없이 9시 모임을 공표했죠."
+    },
+    {
+      "idx": 3,
+      "role": "포인트",
+      "est_sec": 5.7,
+      "text": "9시 1분에 출근한 글쓴이는 자율과 책임이라는 주제로 면담을 받았습니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 4.9,
+      "text": "결국 제도가 아니라 팀장의 성향에 따라 달라지는 상황이었어요."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pair_01_library",
+  "split": "dev",
+  "collected_at": "2026-11-15T16:14+09:00",
+  "source_file": "data/sources/src_01_library.md",
+  "source_chars": 517,
+  "shortus": {
+    "job_url": "https://shortus.viewus.co.kr/studio/#/shorts/cf511a08-ba4d-489f-be5c-4fd17e7f783e",
+    "script_status": "approved",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 32.4,
+    "credits_before": 50,
+    "credits_after_draft": 50,
+    "est_credits_on_completion": 7,
+    "existing_review_flags_on_draft_screen": 0,
+    "credits_after_approve_and_visuals": 50,
+    "credits_after_render": 43,
+    "render_started": "16:19:25",
+    "render_elapsed_sec_approx": 90,
+    "result_duration": "0:33",
+    "template": "상단 제목 바",
+    "headline": "밤 문 열었더니 어린이 자료실은 오히려 한산?",
+    "asr_check_after_approve": "5개 섹션 모두 발음 확인됨",
+    "existing_review_flags_after_approve": 0,
+    "job_id": "cf511a08-ba4d-489f-be5c-4fd17e7f783e",
+    "ready": "준비 3/3"
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 6.7,
+      "text": "도서관 문을 늦게 열었더니 이용자 수는 늘었지만 어린이 자료실은 오히려 한산해졌어요."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 7.3,
+      "text": "한빛시는 지난 8월 1일부터 누리도서관의 평일 폐관 시간을 밤 10시까지 4시간 늦췄습니다."
+    },
+    {
+      "idx": 2,
+      "role": "통계",
+      "est_sec": 6.1,
+      "text": "시범 운영 석 달 만에 월평균 이용자가 1만 7,500명으로 41% 증가했죠."
+    },
+    {
+      "idx": 3,
+      "role": "인용",
+      "est_sec": 6.6,
+      "text": "박서윤 누리도서관장은 인근 대학의 도서관 공사 영향도 함께 봐야 한다고 말했습니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 5.7,
+      "text": "시는 내년 1월 시의회 심의를 거쳐 정식 도입 여부를 결정할 계획입니다."
+    }
+  ],
+  "type": "뉴스형",
+  "hard_feature": "숫자와 유보 표현",
+  "source_id": "src_01_library"
+}

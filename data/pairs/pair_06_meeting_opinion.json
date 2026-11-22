@@ -1,0 +1,52 @@
+{
+  "id": "pair_06_meeting_opinion",
+  "split": "test",
+  "type": "블로그",
+  "hard_feature": "통념을 먼저 소개하고 반대하는 의견 글",
+  "collected_at": "2026-11-15T16:38+09:00",
+  "source_id": "src_06_meeting_opinion",
+  "source_chars": 382,
+  "shortus": {
+    "job_id": "9d6edf7c-a351-4b1c-bc23-a57de77913d7",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 43.4,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 4.3,
+      "text": "회의는 무조건 짧을수록 좋다는 생각, 과연 정답일까요?"
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 14.3,
+      "text": "회의를 30분으로 줄였더니 오히려 같은 문제로 세 번이나 다시 모여야 했습니다. 서두르다 보니 반대 의견을 들을 틈이 없었고 회의가 끝난 뒤 메신저에서 논쟁이 다시 시작된 것이죠."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 13.3,
+      "text": "정보 공유 회의는 짧을수록 좋지만, 결정을 내리는 회의는 반대 의견을 다 들을 때까지 끝내면 안 됩니다. 중요한 건 길이가 아니라 회의의 종류를 먼저 정하는 것입니다."
+    },
+    {
+      "idx": 3,
+      "role": "통계",
+      "est_sec": 7.9,
+      "text": "그래서 지금 우리 팀은 결정 회의에 시간 제한을 두지 않는 대신 한 달에 두 번만 모이고 있습니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 3.7,
+      "text": "여러분의 팀은 회의를 어떻게 진행하고 계신가요?"
+    }
+  ]
+}

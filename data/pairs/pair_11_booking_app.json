@@ -1,0 +1,52 @@
+{
+  "id": "pair_11_booking_app",
+  "split": "test",
+  "type": "제품 소개",
+  "hard_feature": "조건이 붙은 가격과 자체 집계 수치",
+  "collected_at": "2026-11-15T16:42+09:00",
+  "source_id": "src_11_booking_app",
+  "source_chars": 399,
+  "shortus": {
+    "job_id": "95b09bb5-062f-462b-a5b5-b4be7614e466",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 32.9,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 8.3,
+      "text": "식당이나 미용실을 운영하다 보면 예약만 하고 나타나지 않는 손님 때문에 자리를 비워 두는 날이 생깁니다."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 7.4,
+      "text": "예약을 완료하고도 방문하지 않는 손님은 사장님들에게 자리를 비워 두게 만드는 상황을 만듭니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 5.4,
+      "text": "모아예약은 예약할 때 예약금을 미리 받아 이런 문제를 해결해 줍니다."
+    },
+    {
+      "idx": 3,
+      "role": "통계",
+      "est_sec": 6.9,
+      "text": "베타 서비스 참여 매장 120곳의 평균 노쇼율은 18퍼센트에서 7퍼센트로 낮아졌습니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 4.9,
+      "text": "처음 30일은 무료이며 월 9,900원에 이용할 수 있습니다."
+    }
+  ]
+}

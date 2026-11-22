@@ -1,0 +1,52 @@
+{
+  "id": "pair_08_laptop_thread",
+  "split": "dev",
+  "type": "커뮤니티",
+  "hard_feature": "질문 글과 댓글, 화자가 여럿",
+  "collected_at": "2026-11-15T16:39+09:00",
+  "source_id": "src_08_laptop_thread",
+  "source_chars": 435,
+  "shortus": {
+    "job_id": "23446298-9355-4c33-bff5-a0a8c871cf36",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 26.7,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 5.6,
+      "text": "중고 노트북을 62만 원에 샀는데 배터리 수치가 예상과 너무 달랐어요."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 6.4,
+      "text": "글쓴이는 거래 앱에서 배터리 사이클이 80회라고 적힌 게시물을 보고 구매했습니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 4.7,
+      "text": "하지만 막상 제품을 받아서 확인해 보니 수치는 412회였죠."
+    },
+    {
+      "idx": 3,
+      "role": "포인트",
+      "est_sec": 5.4,
+      "text": "판매자는 다른 기기와 헷갈렸다며 5만 원만 돌려주겠다고 답변했습니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 4.6,
+      "text": "글쓴이는 상품 정보 불일치로 고객센터에 신고를 마쳤습니다."
+    }
+  ]
+}

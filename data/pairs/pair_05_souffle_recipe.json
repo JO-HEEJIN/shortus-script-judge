@@ -1,0 +1,46 @@
+{
+  "id": "pair_05_souffle_recipe",
+  "split": "test",
+  "type": "블로그",
+  "hard_feature": "수량과 순서",
+  "collected_at": "2026-11-15T16:37+09:00",
+  "source_id": "src_05_souffle_recipe",
+  "source_chars": 377,
+  "shortus": {
+    "job_id": "6dfde7ff-901d-4be5-be00-167b6e8a06c8",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 27.0,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 6.9,
+      "text": "수플레 팬케이크를 만들 때 반죽을 섞는 과정에서 거품이 꺼져 납작해지는 지점이 있어요."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 7.1,
+      "text": "머랭의 3분의 1을 먼저 섞고 나머지 머랭에 반죽을 부어 주걱으로 자르듯이 섞어야 합니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 8.1,
+      "text": "팬 가장자리에 물 한 큰술을 넣고 뚜껑을 덮어 가장 약한 불에서 4분 굽고 뒤집어서 3분 더 굽습니다."
+    },
+    {
+      "idx": 3,
+      "role": "행동 유도",
+      "est_sec": 4.9,
+      "text": "거품이 꺼지지 않게 섞는 방법과 불 조절이 성공의 핵심입니다."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "pair_09_salt_bread",
+  "split": "test",
+  "type": "커뮤니티",
+  "hard_feature": "아주 짧은 글",
+  "collected_at": "2026-11-15T16:41+09:00",
+  "source_id": "src_09_salt_bread",
+  "source_chars": 110,
+  "shortus": {
+    "job_id": "a4556b77-b330-4a6f-b407-b1ffea40b82f",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 24.6,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 5.1,
+      "text": "동네 빵집 소금빵 가격이 오늘부터 갑자기 3,200원이 되었어요."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 5.6,
+      "text": "어제까지 2,800원이었던 소금빵 가격이 올랐다는 사실을 확인했습니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 5.1,
+      "text": "사장님은 버터값이 올라서 어쩔 수 없다고 문에 써 붙여 놓았대요."
+    },
+    {
+      "idx": 3,
+      "role": "포인트",
+      "est_sec": 5.4,
+      "text": "글쓴이는 가격이 올랐음에도 불구하고 빵이 맛있어서 계속 구매했습니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 3.3,
+      "text": "그래서 글쓴이는 오늘도 두 개를 샀습니다."
+    }
+  ]
+}

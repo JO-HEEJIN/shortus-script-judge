@@ -1,0 +1,52 @@
+{
+  "id": "pair_12_sleep_ring",
+  "split": "test",
+  "type": "제품 소개",
+  "hard_feature": "한계를 밝힌 제품 (효능 과장 유발)",
+  "collected_at": "2026-11-15T16:44+09:00",
+  "source_id": "src_12_sleep_ring",
+  "source_chars": 379,
+  "shortus": {
+    "job_id": "12b05f72-ab0b-4af4-8196-dd13c5e991e6",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 29.9,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 6.3,
+      "text": "자고 일어나서 밤새 얼마나 뒤척였는지 정확히 알고 싶어 하는 사람들이 많습니다."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 5.6,
+      "text": "단순히 자고 일어난 시간만 알 수 있어 수면의 질을 파악하기 어려웠죠."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 5.4,
+      "text": "달무리 링은 손가락에 끼고 자면 수면 시간과 뒤척임을 기록해 줍니다."
+    },
+    {
+      "idx": 3,
+      "role": "포인트",
+      "est_sec": 5.9,
+      "text": "심박수와 피부 온도를 바탕으로 얕은 잠과 깊은 잠을 추정해서 보여 줍니다."
+    },
+    {
+      "idx": 4,
+      "role": "행동 유도",
+      "est_sec": 6.7,
+      "text": "가격은 249,000원이며 구매 전 사이즈 측정 키트를 무료로 받아 볼 수 있습니다."
+    }
+  ]
+}

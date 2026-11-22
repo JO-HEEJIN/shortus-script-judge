@@ -1,0 +1,46 @@
+{
+  "id": "pair_02_earnings_recall",
+  "split": "dev",
+  "type": "뉴스형",
+  "hard_feature": "주제 둘이 한 글에 섞임",
+  "collected_at": "2026-11-15T16:35+09:00",
+  "source_id": "src_02_earnings_recall",
+  "source_chars": 451,
+  "shortus": {
+    "job_id": "f57a6c9d-e9ea-4ee8-98b2-914b816c0b27",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 25.7,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 5.1,
+      "text": "새벽전자가 3분기 매출이 늘었음에도 영업이익은 오히려 줄어들었죠."
+    },
+    {
+      "idx": 1,
+      "role": "통계",
+      "est_sec": 8.7,
+      "text": "3분기 매출은 5,400억 원으로 전년보다 12% 늘었지만 영업이익은 8% 줄어든 276억 원을 기록했습니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 5.7,
+      "text": "회사는 원자재 가격 상승과 물류비 증가를 이익 감소의 원인으로 밝혔어요."
+    },
+    {
+      "idx": 3,
+      "role": "행동 유도",
+      "est_sec": 6.1,
+      "text": "이날 회사는 무선청소기 2만 3,000대를 자발적으로 리콜한다고 발표했습니다."
+    }
+  ]
+}

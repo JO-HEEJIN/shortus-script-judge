@@ -1,0 +1,58 @@
+{
+  "id": "pair_10_earbuds_spec",
+  "split": "dev",
+  "type": "제품 소개",
+  "hard_feature": "스펙 나열",
+  "collected_at": "2026-11-15T16:41+09:00",
+  "source_id": "src_10_earbuds_spec",
+  "source_chars": 358,
+  "shortus": {
+    "job_id": "a3e51f76-fd50-4dc4-9534-b7afa7355663",
+    "script_status": "draft",
+    "write_mode": "AI 재작성",
+    "script_format": "자동(추천)",
+    "voice": "Aria",
+    "speed": 1.1,
+    "est_total_sec": 40.3,
+    "ready": "준비 3/3",
+    "existing_review_flags_on_draft_screen": 0
+  },
+  "sections": [
+    {
+      "idx": 0,
+      "role": "훅",
+      "est_sec": 6.3,
+      "text": "소리담이 전작보다 무게를 0.8그램 더 줄인 새로운 무선 이어폰을 선보였습니다."
+    },
+    {
+      "idx": 1,
+      "role": "포인트",
+      "est_sec": 9.1,
+      "text": "무선 이어폰을 사용할 때 무게가 부담스러울 수 있는데, 소리담 Air 3는 한 쪽 무게를 4.6그램으로 맞췄습니다."
+    },
+    {
+      "idx": 2,
+      "role": "포인트",
+      "est_sec": 7,
+      "text": "소리담 Air 3는 블루투스 5.4를 지원하며 기기 두 대에 동시에 연결할 수 있습니다."
+    },
+    {
+      "idx": 3,
+      "role": "통계",
+      "est_sec": 6.4,
+      "text": "한 번 충전으로 8시간, 케이스를 함께 쓰면 최대 32시간까지 재생이 가능합니다."
+    },
+    {
+      "idx": 4,
+      "role": "통계",
+      "est_sec": 6.3,
+      "text": "노이즈 캔슬링으로 주변 소음을 최대 38데시벨까지 줄여주는 기능도 포함했습니다."
+    },
+    {
+      "idx": 5,
+      "role": "행동 유도",
+      "est_sec": 5.1,
+      "text": "소리담 Air 3는 12월 3일에 129,000원으로 출시됩니다."
+    }
+  ]
+}
